@@ -1,0 +1,3 @@
+Pasta reservada para imagens do portfólio.
+O avatar atual é feito com HTML e CSS, então não precisa de imagem externa.
+Se adicionar uma foto, use uma imagem sua autorizada e otimize o tamanho do arquivo.
