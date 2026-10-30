@@ -1,0 +1,11 @@
+PORTFÓLIO LIVIA — COMO ABRIR
+
+1. Extraia a pasta portfolio_livia.zip.
+2. Abra a pasta portfolio_livia.
+3. Dê dois cliques em index.html para abrir no navegador.
+4. Os estilos ficam em css/style.css e o JavaScript em js/script.js.
+
+IMPORTANTE:
+- Revise os textos e confirme que os projetos listados correspondem aos seus projetos reais do curso.
+- O formulário é apenas demonstrativo: valida os campos, mas não envia nem armazena dados.
+- Não inclua endereço, telefone ou outros dados pessoais desnecessários.
